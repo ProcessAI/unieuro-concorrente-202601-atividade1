@@ -9,3 +9,5 @@
 
 
 Hash a ser quebrado: ca6ae33116b93e57b87810a27296fc36
+
+Tempo de referência para quebra do hash em um processador a partir de 3Ghz com uma única thread (serial) é 400 segundos.
