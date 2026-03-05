@@ -1,4 +1,4 @@
-# Avaliar o desempenho do program de quebra de hash MD5
+# Avaliar o desempenho do programa de quebra de hash MD5
 
 1) Crie a solução serial para quebrar um hash md5 de 9 dígitos (com dígito de 0 a 9). Lembre de calcular o tempo de processamento.
 2) Implemente a solução paralela que possa ser executada com 2, 4, 8, 12 threads
