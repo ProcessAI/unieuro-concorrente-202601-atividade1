@@ -1,13 +1,25 @@
-# Avaliar o desempenho do programa de quebra de hash MD5
+# Atividade 2 - Avaliar o desempenho da soma de valores em paralelo
 
-1) Crie a solução serial para quebrar um hash md5 de 9 dígitos (com dígito de 0 a 9). Lembre de calcular o tempo de processamento.
+1) Crie a solução serial para somar. Lembre de calcular o tempo de processamento.
 2) Implemente a solução paralela que possa ser executada com 2, 4, 8, 12 threads
 3) Execute o experimento para medir os tempos em paralelo
 4) Construa arquivo excel com a tabela e graficos do Speedup e Eficiência
-5) Crie um repositório público no GitHub incluindo os programas python e o arquivo excel
-6) Responda o questionário no AVA
+5) Construa um relatório de análise dos resultados (verificar orientações do professor em sala)
+6) Crie um repositório público no GitHub incluindo os programas python e o arquivo excel
+7) Responda o questionário no AVA
 
+## Arquivos
 
-Hash a ser quebrado: ca6ae33116b93e57b87810a27296fc36
+### Exemplo1 - 1 milhão de números
+Arquivo gerado: numero1.txt
+Número de linhas: 1000000
+Soma total dos valores: -88
 
-Tempo de referência para quebra do hash em um processador a partir de 3Ghz com uma única thread (serial) é 400 segundos.
+### Exemplo2 - 10 milhões de números
+Arquivo gerado: numero2.txt
+Número de linhas: 10000000
+Soma total dos valores: 5384
+
+### Desafio Final
+Arquivo gerado: numerogigante.txt
+Número de linhas: 1000000000
