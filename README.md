@@ -10,16 +10,18 @@
 
 ## Arquivos
 
-### Exemplo1 - 1 milhão de números
+### Exemplo1 - 1 milhão de números - fase de desenvolvimento
 Arquivo gerado: numero1.txt
 Número de linhas: 1000000
 Soma total dos valores: -88
 
-### Exemplo2 - 10 milhões de números
+### Exemplo2 - 10 milhões de números - fase de análise
 Arquivo gerado: numero2.txt
 Número de linhas: 10000000
 Soma total dos valores: 5384
 
-### Desafio Final
+### Desafio Final (1 ponto extra para o primeiro aluno que entregar o valor correto)
 Arquivo gerado: numerogigante.txt
 Número de linhas: 1000000000
+
+DESAFAFIO FINAL !
